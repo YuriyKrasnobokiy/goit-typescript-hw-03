@@ -35,4 +35,6 @@ class Manager extends Employee {
   }
 }
 
-export {};
+// const men = new Manager("Kr", "qwe", 10);
+// console.log(men);
+// export {};
